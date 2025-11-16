@@ -1,7 +1,7 @@
-# UAV flight Test Convention 2026
+# UAV flight Test Convention 2025
 
-Presentation for the 6-th UAV-FTC
+Presentation for the 6-th UAV Flight Test Convention. It highlights some measurements with the ACMU system on the DG-800 S UAV. The presentation is build around the presentation flight which the crew did during the 5-th UAV Flight Test Convention in 2024.
 
-goal:
-+ Cut the DG-800 S flight from previous conference, and populate the video with ACMU measurements of the actual flight.
-+ Place in data snippets from FT21 as well ehere the video is good quality, and actualy visible.
+Content:
++ Presentation slides
++ Additional video 
